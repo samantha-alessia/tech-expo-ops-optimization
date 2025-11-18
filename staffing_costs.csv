@@ -1,0 +1,6 @@
+staff_type,cost_per_hour,notes
+Registration,2200,Handles check-in and badge printing
+Booth_Staff,2000,Assigned to an exhibitor booth
+Tech_Support,2500,Handles AV and technical issues
+Crowd_Management,1800,Guides attendees and manages lines
+General_Support,1700,Floaters for miscellaneous tasks

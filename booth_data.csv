@@ -1,0 +1,21 @@
+booth_id,booth_name,expected_visitors,avg_service_time_min,booth_staff
+1,AI Robotics,320,5,3
+2,Autonomous Vehicles,280,6,3
+3,Quantum Computing,260,5,2
+4,Cloud Security,240,4,2
+5,IoT Devices,230,4,2
+6,Smart Home Tech,220,3,2
+7,AR/VR Experiences,310,6,3
+8,Edge Computing,190,4,2
+9,5G Networks,210,4,2
+10,AI Healthcare,295,5,3
+11,FinTech Solutions,230,4,2
+12,Cybersecurity Tools,260,5,2
+13,Developer Tools,180,3,2
+14,Robot Assistants,270,5,2
+15,AI Art,150,3,1
+16,GreenTech AI,160,4,1
+17,Startup Showcase A,200,3,2
+18,Startup Showcase B,180,3,2
+19,Smart Mobility,240,5,2
+20,Sensors & Microchips,210,4,2
