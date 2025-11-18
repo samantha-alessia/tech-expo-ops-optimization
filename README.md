@@ -18,6 +18,23 @@ It includes:
   
 This project showcases skills across project management, data analytics, and operations.
 
+Event Name: Tokyo Tech Expo 2025
+
+Theme: AI, Robotics & Emerging Technologies
+
+Location: Tokyo Big Sight (East Hall)
+
+Duration: 1 Day (10:00 – 18:00 (8 hours))
+
+Expected Visitors: 3,000 attendees
+
+Event Areas Modeled
+1. Registration Counter (check-in, badge printing)
+2. Keynote Hall (two keynote sessions)
+3. 20 Exhibitor Booths (varied traffic patterns)
+4. Food Court
+5. Walkway / General Area Traffic
+
 # 2. Objectives
 
 - Predict visitor attendance throughout the day
@@ -95,26 +112,7 @@ Included:
 - PM Case-Study Summary
 
 
-# 7. Repository Structure
-
-├── data/
-│   ├── attendee_forecast.csv
-│   ├── staffing_costs.csv
-│   └── booth_data.csv
-│
-├── analysis/
-│   ├── staffing_model.xlsx
-│   ├── forecast.ipynb
-│   └── sql_queries.sql
-│
-├── dashboard/
-│   ├── expo_dashboard.png
-│   └── expo_dashboard.pbix
-│
-├── README.md
-└── LICENSE
-
-# 8. Tools & Skills Demonstrated
+# 7. Tools & Skills Demonstrated
 - Excel (advanced): forecasting, scenario modeling
 - SQL: data cleaning & aggregation
 - Python (optional): forecasting models
@@ -122,7 +120,7 @@ Included:
 - Project Management: documentation, assumptions, risk & recommendations
 - Operations Management: queuing models, staffing optimization
 
-# 9. Status
+# 8. Status
 
 In Progress
 - Dataset: generating
@@ -130,7 +128,7 @@ In Progress
 - Dashboard: pending
 - Summary: pending
 
-# 10. Future Enhancements
+# 9. Future Enhancements
 - Add optimization using Python’s PuLP
 - Add arrival simulation using Monte Carlo
 - Add booth-level heatmap dashboards
